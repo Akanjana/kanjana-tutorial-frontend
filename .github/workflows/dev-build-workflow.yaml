@@ -12,7 +12,7 @@ on:
 
 env:
   APP_NAME: kanjana-tutorial-frontend
-  CONTAINER_REPOSITORY: "acrkanjanatutorial001.azurecr.io"
+  CONTAINER_REPOSITORY: "acrkanjnanatutorial001.azurecr.io"
   IMAGE_TAG: "0.0.1-SNAPSHOT"
 
 jobs:
